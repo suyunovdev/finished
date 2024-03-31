@@ -1,0 +1,24 @@
+1. Javascript'da necha xil ma'lumot turi mavjud?>>String ,number,boolean,null,symbol,undifined,object
+2. Ma'lumot turlari nechiga bolinadi? >> Primitive va object
+3. Primitive ma'lumot turlarini yozing. >> String,number,null,boolean,undifined,symbol
+4. Quyidagilarni javoblarini yozing?
+  4.1 typeof null; >> object
+  4.2 typeof undefined; >> undifined
+  4.3 typeof 0;>> number
+  4.4 typeof 10n; >> bigint
+  4.5 typeof true; boolean
+  4.6 typeof "a" - 2; >> NaN
+5. Qiymatni turini qanday qilib string'ga ozgartiramiz? >> toString() metodi orqali;
+6. Qiymatni turini qanday qilib number'ga ozgartiramiz? >> Number() metodi orqali;
+7. Qiymatni turini qanday qilib boolean'ga ozgartiramiz? >>Boolean() Boolean() Boolean() Boolean()   
+8. console.log("6" + "2") ? >>62
+9. console.log("6" / "2") ?
+10. Number(null) ?  >>  Number(null)Numbe ()
+11. Number(undefined) ? undifinde  >NaN 
+12. Number(true) + Number(false) ? >> Number(true) + Number(false)  1 + 0 = 1;
+12. Number(true) + Number("false") ?
+13. alert( Boolean(1) ); ?
+14. alert( Boolean(0) ); ?cdd
+15. alert( Boolean("hello") ); ? true
+16. alert( Boolean("") ): ?false
+()
