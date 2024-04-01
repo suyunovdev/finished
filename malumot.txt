@@ -10,15 +10,15 @@
   4.6 typeof "a" - 2; >> NaN
 5. Qiymatni turini qanday qilib string'ga ozgartiramiz? >> toString() metodi orqali;
 6. Qiymatni turini qanday qilib number'ga ozgartiramiz? >> Number() metodi orqali;
-7. Qiymatni turini qanday qilib boolean'ga ozgartiramiz? >>Boolean() Boolean() Boolean() Boolean()   
+7. Qiymatni turini qanday qilib boolean'ga ozgartiramiz? >>Boolean() metodi orqali 
 8. console.log("6" + "2") ? >>62
 9. console.log("6" / "2") ?
 10. Number(null) ?  >>  Number(null)Numbe ()
 11. Number(undefined) ? undifinde  >NaN 
 12. Number(true) + Number(false) ? >> Number(true) + Number(false)  1 + 0 = 1;
-12. Number(true) + Number("false") ?
-13. alert( Boolean(1) ); ?
-14. alert( Boolean(0) ); ?cdd
+12. Number(true) + Number("false") ? >> false
+13. alert( Boolean(1) ); ? >>  true
+14. alert( Boolean(0) ); ? >>false
 15. alert( Boolean("hello") ); ? true
 16. alert( Boolean("") ): ?false
 ()
